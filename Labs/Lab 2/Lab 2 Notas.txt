@@ -1,0 +1,18 @@
+- 1 diretor
+- 2 empregados de mesa
+- 2 cozinheiros
+- 2 salas (1 grande e 1 pequena)
+- pedidos decididos entre si
+- entrega na sala pequena pelo mesmo empregado, na grande pode ser empregado ou diretor
+- clientes pagam ao diretor
+
+Processos:
+- P1 - Preparação:
+	- receber entregas as 8:00
+	- iniciar preparação de comida
+- P2 - Serviço:
+	- serviço a ser assegurado as 12
+- P3 - Fecho:
+	- fazer relatorio por parte do diretor
+	- fechar restaurante
+
